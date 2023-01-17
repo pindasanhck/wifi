@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html><meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet"><script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script><script src="https://kit.fontawesome.com/4f3ce16e3e.js" crossorigin="anonymous"></script>
 <link href="https://jawab.feeldream.repl.co/style.css" rel="stylesheet" type="text/css" /><script src="https://jawab.feeldream.repl.co/script.js"></script>
@@ -15,7 +14,7 @@
 <body><div id="bodyblur"><img id="wallpaper" src="" width="100%" height="100%"/></div>
 <div id='Content'>
 <div><blockquote id='bq'><img id="foto1" src=""/><img id="foto2" src=""/><p id="katakata"></p><p id="katabawah"></p><p id="katanolak"></p><p id="akhiran" onClick="menuju();">by:Ramil Baruiz</p></p></blockquote></div>
-<div id="contTom" style="display:none;"><a id="By" class='button' onClick="terima()"></i>gwapo</a><a id="Bn" class='button' onClick="tolak()"></i>dili</a></div>
+<div id="contTom" style="display:none;"><a id="By" class='button' onClick="terima()">gwapo</a><a id="Bn" class='button' onClick="tolak()">dili</a></div>
 </div>
 <script>
   async function setel() {audio.play();}

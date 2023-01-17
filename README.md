@@ -13,7 +13,7 @@
 </style>
 <body><div id="bodyblur"><img id="wallpaper" src="" width="100%" height="100%"/></div>
 <div id='Content'>
-<div><blockquote id='bq'><img id="foto1" src=""/><img id="foto2" src=""/><p id="katakata"></p><p id="katabawah"></p><p id="katanolak"></p><p id="akhiran" onClick="menuju();">by:Ramil Baruiz</p></p></blockquote></div>
+<div><blockquote id='bq'><img id="foto1" src=""/><img id="foto2" src=""/><p id="katakata"></p><p id="katabawah"></p><p id="katanolak"></p><p id="akhiran" onClick="menuju();">by:Ramil Baruiz</p></blockquote></div>
 <div id="contTom" style="display:none;"><a id="By" class='button' onClick="terima()">gwapo</a><a id="Bn" class='button' onClick="tolak()">dili</a></div>
 </div>
 <script>

